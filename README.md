@@ -10,3 +10,7 @@ Please check each folder to view the design flows and UI screens.
 
 ## Tools
 - Figma
+
+## Interactive Prototype
+Figma Prototype: [https://figma.com/yourlink](https://www.figma.com/design/vGel36SxDXl9Q3hNjUfGid/Final_project?node-id=0-1&t=9CjBahOx4M8mHtot-1)
+
